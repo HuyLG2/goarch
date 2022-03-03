@@ -1,0 +1,23 @@
+.bg-contact {
+    background-image: url(/dist/images/Contact.jpg);
+    background-size: cover;
+}
+
+.contact-details {
+    position: relative;
+    overflow: hidden;
+}
+
+.col-map {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+.col-info {
+    background: url(/dist/images/contact-details.jpg) 50% no-repeat;
+    background-size: cover;
+    padding: 0;
+}
